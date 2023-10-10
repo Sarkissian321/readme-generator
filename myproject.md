@@ -9,30 +9,35 @@
   * [Contributing](#contributing)
   * [Testing](#testing)
   * [Usage](#usage)
+  * [Questions](#questions)
   * [GitHub](#github)
   * [Email](#email)
 
   ## Desription
 
-  To help create oraganized and informative README
+  To create organized and informative README
 
   ## Installation
 
   TO install dependencies run following commands:
 
-  CLone my github repository and paste it in your computer
+  Clone my github repository, use VS code, node.js, and inquire
 
   ## Contributing
 
-  N/A
+  Please refer to the description and the video guide
 
   ## Testing
 
-  N/A
+  nmp testing
 
   ## Usage
 
-  Please refer to the video description of the usage
+  Please refer to the video guide
+
+  ## Questiosn
+
+  undefined
 
   ## GitHub
 
