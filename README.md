@@ -37,7 +37,7 @@
 
   ## Questiosn
 
-  undefined
+  Contact me at my github account or email me
 
   ## GitHub
 
