@@ -32,7 +32,7 @@
   ## Usage
 
   Please refer to the video guide:
-  https://drive.google.com/file/d/1kAji8S1cGKg8Jms4b9Tm5xuXY4Vub7Ck/view
+ [ https://drive.google.com/file/d/1kAji8S1cGKg8Jms4b9Tm5xuXY4Vub7Ck/view](https://drive.google.com/file/d/1kAji8S1cGKg8Jms4b9Tm5xuXY4Vub7Ck/view)
 
 
   ## Questiosn
