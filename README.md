@@ -19,8 +19,6 @@
 
   ## Installation
 
-  TO install dependencies run following commands:
-
   Clone my github repository
 
   ## Contributing
@@ -33,7 +31,9 @@
 
   ## Usage
 
-  Please refer to the video guide
+  Please refer to the video guide:
+  [Untitled_ Oct 9, 2023 10_55 PM.webm](https://github.com/Sarkissian321/readme-generator/assets/142841411/72400d45-a7dc-464c-9ac8-4d3c797184f2)
+
 
   ## Questiosn
 
