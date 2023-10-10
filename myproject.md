@@ -1,6 +1,6 @@
 # Professional README Generator
 
-  ![License](https://img.shields.io/badge/License--blue.svg)
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Table of Contents
 
@@ -14,25 +14,25 @@
 
   ## Desription
 
-  To help create organized and informative readme
+  To help create oraganized and informative README
 
   ## Installation
 
   TO install dependencies run following commands:
 
-  Clone the github repository to your computer. You will need VS code and Node.js to run this program.
+  CLone my github repository and paste it in your computer
 
   ## Contributing
 
-  
+  N/A
 
   ## Testing
 
-  
+  N/A
 
   ## Usage
 
-  Please watch the attached video for usage instructions.
+  Please refer to the video description of the usage
 
   ## GitHub
 

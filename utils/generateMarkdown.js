@@ -24,13 +24,20 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.license)}
 
+  ## Table of Contents
+
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Contributing](#contributing)
+  * [Testing](#testing)
+  * [Usage](#usage)
+  * [Questions](#questions)
+  * [GitHub](#github)
+  * [Email](#email)
+
   ## Desription
 
   ${data.description}
-
-  ## Table of Contents
-
-  * [Installation](#installation)
 
   ## Installation
 
@@ -38,6 +45,29 @@ function generateMarkdown(data) {
 
   ${data.installation}
 
+  ## Contributing
+
+  ${data.contributing}
+
+  ## Testing
+
+  ${data.testing}
+
+  ## Usage
+
+  ${data.usage}
+
+  ## Questiosn
+
+  ${data.questiosn}
+
+  ## GitHub
+
+  ${data.github}
+
+  ## Email
+
+  ${data.email}
 `;
 }
 

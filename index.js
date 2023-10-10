@@ -45,6 +45,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "questions",
+        message: "How can users ask you questions?"
+    },
+    {
+        type: "input",
         name: "github",
         message: "Please enter your github username"
     },
@@ -63,7 +68,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then((response) => {
-        writeToFile("project.md", generateMarkdown({ ...response}));
+        writeToFile("myproject.md", generateMarkdown({ ...response}));
     })
 }
 
